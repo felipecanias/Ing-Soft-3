@@ -232,8 +232,9 @@ git push origin pr_branch
 
 ## 10. Algunos ejercicios online
 
- 1.Entrar a Learn Git Branching.
- 2.Completar los ejercicios de Introduction Sequence.
+1.Entrar a Learn Git Branching.
+
+2.Completar los ejercicios de Introduction Sequence.
 
 ![Logo](./images/img17.png)
 
