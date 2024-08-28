@@ -98,8 +98,28 @@ En resumen, el editor clásico es más accesible para usuarios que prefieren una
 ![Logo](./images/img21.png)
 
 ## 4.12 Crear un nuevo proyecto en ADO clonado desde un repo que contenga una aplicación en Angular como por ejemplo https://github.com/ingsoft3ucc/angular-demo-project.git
+
+![Logo](./images/img22.png)
+
 ## 4.13 Configurar un pipeline de build para un proyecto de tipo Angular como el clonado.
+
+![Logo](./images/img23.png)
+
 ## 4.14 Habilitar CI para el pipeline.
+
+![Logo](./images/img24.png)
+
 ## 4.15 Hacer un cambio a un archivo del proyecto (algún cambio en el HTML que se renderiza por ejemplo) y verificar que se ejecute automáticamente el pipeline.
+
+![Logo](./images/img25.png)
+
 ## 4.16 Descargar el resultado del pipeline y correr en un servidor web local el sitio construido.
+
+![Logo](./images/img26.png)
+
 ## 4.17 Mostrar el antes y el después del cambio.
+**ANTES:**
+![Logo](./images/img27.png)
+
+**DESPUES:**
+![Logo](./images/img28.png)
