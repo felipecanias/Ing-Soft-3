@@ -139,10 +139,10 @@ variables:
   solution: 'SimpleWebAPI.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
-  ConnectedServiceName: 'Azure subscription 1 (de2100ee-d1a0-44f9-90cf-bfd824766f52)' # Subscription ID
+  ConnectedServiceName: 'Azure subscription 1 (390e02d3-f091-4607-896a-27733bbdabf4)' # Subscription ID
   WebAppKind: 'webApp'
-  DevWebAppName: 'MiWebApp01-cetti' # QA WebApp name
-  ProdWebAppName: 'MiWebApp01-cetti-PROD' # Production WebApp name
+  DevWebAppName: 'MyWebApp1' # QA WebApp name
+  ProdWebAppName: 'MyWebApp1-PROD' # Production WebApp name
 
 stages:
 - stage: Build
