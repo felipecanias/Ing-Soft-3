@@ -16,50 +16,50 @@ Use el mismo repo del TP08. El nombre del pipeline que use para este TP es TP09.
 
 Creamos el AppServicePlan:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 Modificamos el pipeline:
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ### 4.2 Desafíos:
 #### 4.2.1 Agregar tareas para generar Front en Azure App Service con Soporte para Contenedores
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 #### 4.2.2 Agregar variables necesarias para el funcionamiento de la nueva etapa considerando que debe haber 2 entornos QA y PROD para Back y Front.
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 #### 4.2.3 Agregar tareas para correr pruebas de integración en el entorno de QA de Back y Front creado en Azure App Services con Soporte para Contenedores.
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 #### 4.2.4 Agregar etapa que dependa de la etapa de Deploy en QA que genere un entorno de PROD.
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
-![alt text](image-16.png)
+![alt text](images/image-16.png)
 
 #### 4.2.5 Entregar un pipeline que incluya:
 - Etapa Construcción y Pruebas Unitarias y Code Coverage Back y Front
@@ -74,18 +74,18 @@ Modificamos el pipeline:
 
 El pipeline se llama "TP09 - Integrador"
 
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
-![alt text](image-18.png)
+![alt text](images/image-18.png)
 
-![alt text](image-19.png)
+![alt text](images/image-19.png)
 
-![alt text](image-20.png)
+![alt text](images/image-20.png)
 
-![alt text](image-21.png)
+![alt text](images/image-21.png)
 
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
-![alt text](image-23.png)
+![alt text](images/image-23.png)
 
-![alt text](image-24.png)
+![alt text](images/image-24.png)
