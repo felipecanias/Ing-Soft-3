@@ -89,3 +89,19 @@ El pipeline se llama "TP09 - Integrador"
 ![alt text](images/image-23.png)
 
 ![alt text](images/image-24.png)
+
+#### Observamos que el pipeline muestra los test aunque falle.
+
+![alt text](images/image-25.png)
+
+![alt text](images/image-26.png)
+
+![alt text](images/image-27.png)
+
+![alt text](images/image-28.png)
+
+![alt text](images/image-29.png)
+
+![alt text](images/image-30.png)
+
+![alt text](images/image-31.png)
